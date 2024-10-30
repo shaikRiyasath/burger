@@ -1,0 +1,139 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width:100px;
+    margin-left: 100px;
+}
+#in2{
+    width : 550px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    float:left;
+    text-align: center;
+    line-height: 100px;   
+}
+ul li a{
+    font-size: 21px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+ul li a:hover{
+    color: orangered;
+    font-size: 23px;
+}
+.out2{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(burger2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 600px;
+}
+#welcome{
+    color: white;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 50px;
+    text-shadow: 3px 3px 3px white;
+}
+#taste {
+    color: wheat;
+    font-size: 35px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+#menu{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 20px;
+    height: 50px;
+    width: 550px;
+    background-color: red
+}
+#menu:hover{
+    background-color: gold;
+}
+.out3{
+    border: solid 1px;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly; 
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 450px;
+}
+#in3{
+    width: 450px;
+}
+#in4{
+    width: 450px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 20px;
+}
+#text1{
+    font-size: 20px;
+}
+#text1{
+    font-size: 23px;
+    color: white;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: black;
+} 
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#Menu{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    margin-top: 20px;
+    height: 50px;
+    width: 350px;
+    background-color: red
+}
+#img1,#img3{
+    margin-top: 90px;
+}
+#img2{
+    margin-top: 30px;
+}
+#menu1{
+    color: white;
+    text-align: center;
+}
+#menu2{
+    color: white;
+    font-size: 18px;
+}
